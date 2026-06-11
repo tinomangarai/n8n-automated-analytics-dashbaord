@@ -1,0 +1,26 @@
+# Core data stack
+pandas>=2.1.0
+numpy>=1.26.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+
+# Data analysis
+scipy>=1.11.0
+statsmodels>=0.14.0
+
+# Visualization & Dashboard
+plotly>=5.18.0
+streamlit>=1.31.0
+streamlit-autorefresh>=1.0.1
+kaleido>=0.2.1
+
+# PDF Reporting
+reportlab>=4.1.0
+
+# Logging & CLI
+loguru>=0.7.2
+rich>=13.7.0
+typer>=0.9.0
+
+# Scheduling (optional — for local cron)
+schedule>=1.2.0
